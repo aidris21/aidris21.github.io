@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe4c2886.css",
+    "main.js": "/static/js/main.d6b54937.js",
+    "static/js/787.8861a095.chunk.js": "/static/js/787.8861a095.chunk.js",
+    "static/media/amiridris.jpeg": "/static/media/amiridris.fc86c1e61d4c2380e936.jpeg",
+    "static/media/unify_labs_logo_tagline_med.original.png": "/static/media/unify_labs_logo_tagline_med.original.abbfcc0cce3263971341.png",
+    "static/media/skyline.svg": "/static/media/skyline.d42434f2b9a257452762f59441e9f43c.svg",
+    "index.html": "/index.html",
+    "main.fe4c2886.css.map": "/static/css/main.fe4c2886.css.map",
+    "main.d6b54937.js.map": "/static/js/main.d6b54937.js.map",
+    "787.8861a095.chunk.js.map": "/static/js/787.8861a095.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe4c2886.css",
+    "static/js/main.d6b54937.js"
+  ]
+}
